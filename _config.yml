@@ -1,0 +1,14 @@
+layout_spectrum: 0.8856376896146685
+typography_spectrum: 0.035149832954630256
+color:
+  brandStrength: 0.8357370840385556
+  lightness: 0.11116727464832366
+  saturation: 0.4497405157890171
+  rhythmicContrast: 0.7985933325253427
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: occupied
