@@ -6,9 +6,9 @@ color:
   saturation: 0.4497405157890171
   rhythmicContrast: 0.7985933325253427
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
 name: occupied
